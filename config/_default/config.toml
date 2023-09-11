@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = ["blowfish"]
-baseURL = "https://nikzu.dev/"
+baseURL = "https://nikzu.dev"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -11,9 +11,9 @@ defaultContentLanguage = "en"
 
 enableRobotsTXT = true
 paginate = 10
-summaryLength = 0
+summaryLength = 1
 
-buildDrafts = true
+buildDrafts = false
 buildFuture = false
 
 # googleAnalytics = "G-XXXXXXXXX"
