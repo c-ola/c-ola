@@ -68,7 +68,7 @@ disableImageOptimization = true
   showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = true
+  showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
   showSummary = true
@@ -101,7 +101,7 @@ disableImageOptimization = true
   showViews = false
   showLikes = false
   showTableOfContents = false
-  cardView = false
+  cardView = true
 
 [term]
   showHero = false
