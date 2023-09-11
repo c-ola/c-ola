@@ -1,10 +1,7 @@
 +++
 title = "Cassowary GB"
-date = "September 11 2023"
+date = 2022-06-13T20:55:37+01:00
 author = "Nikola Zupancic"
-showFullContent = false
-readingTime = false
-
 +++
 
 This is about a gameboy emulator called cassowary gb.
