@@ -1,4 +1,2 @@
-baseURL = 'https://nikzu.dev/'
-languageCode = 'en-us'
-title = 'Nikzu'
-theme = 'terminal'
+baseurl = "/"
+languageCode = "en-us"
