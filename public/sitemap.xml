@@ -5,22 +5,48 @@
     
       <url>
             <loc>https://nikzu.dev/</loc>
-            <lastmod>2023-09-11T13:20:21-04:00</lastmod>
+            <lastmod>2023-09-11T14:23:19-04:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
+    
+  
+    
+      <url>
+            <loc>https://nikzu.dev/resume/</loc>
+            <lastmod>2023-09-11T14:23:19-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://nikzu.dev/contact/</loc>
+            <lastmod>2023-09-11T14:23:03-04:00</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
+    
+  
     
   
     
   
     
       <url>
-            <loc>https://nikzu.dev/</loc>
+            <loc>https://nikzu.dev/projects/cassowary-gb/</loc>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
           </url>
     
   
+    
+      <url>
+            <loc>https://nikzu.dev/projects/</loc>
+            <changefreq>daily</changefreq>
+            <priority>0.5</priority>
+          </url>
     
   
 </urlset>
