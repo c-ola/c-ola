@@ -22,10 +22,8 @@ buildFuture = false
   anchor = 'Center'
 
 [taxonomies]
-  resume = 'resume'
-  contact = 'contact'
   projects = "projects"
-  author = "authors"
+  achievements = "achievements"
 
 [sitemap]
   changefreq = 'daily'
