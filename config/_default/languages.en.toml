@@ -18,7 +18,7 @@ title = "Nikola Zupancic"
  [author]
    name = "Nikola Zupancic"
    #image = "img/blowfish_logo.png"
-   headline = "Student"
+   #headline = "Student"
    bio = ""
    links = [
      { github = "https://github.com/c-ola" },
