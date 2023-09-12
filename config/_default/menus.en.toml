@@ -17,7 +17,7 @@
 
 [[main]]
   name = "Resume"
-  pageref = "resume"
+  url = "/resume.pdf"
   weight = 10
 
 [[main]]
