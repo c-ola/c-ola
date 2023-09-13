@@ -13,16 +13,16 @@
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 0
+  weight = 10
 
 [[main]]
   name = "Resume"
   url = "/resume.pdf"
-  weight = 10
+  weight = 20
 
 [[main]]
   name = "Contact"
-  weight = 20
+  weight = 30
 
 
 [[main]]
@@ -30,21 +30,21 @@
   pre = "email"
   name = "Email"
   url = "mailto:nikola.z37@hotmail.com"
-  weight = 30
+  weight = 10
 
 [[main]]
   parent = "Contact"
   pre = "github"
   name = "GitHub"
   url = "https://github.com/c-ola"
-  weight = 30
+  weight = 20
 
 [[main]]
   parent = "Contact"
   pre = "linkedin"
   name = "LinkedIn"
   url = "https://www.linkedin.com/in/nikola-zupancic-94a168230/"
-  weight = 20
+  weight = 30
 
 #[[main]]
 #  name = "Parent"
