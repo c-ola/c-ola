@@ -13,7 +13,7 @@
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 10
+  weight = 0
 
 [[main]]
   name = "Resume"
@@ -21,17 +21,37 @@
   weight = 10
 
 [[main]]
+  name = "Contact"
+  weight = 20
+
+
+[[main]]
+  parent = "Contact"
+  pre = "email"
+  name = "Email"
+  url = "mailto:nikola.z37@hotmail.com"
+  weight = 30
+
+[[main]]
+  parent = "Contact"
   pre = "github"
   name = "GitHub"
   url = "https://github.com/c-ola"
   weight = 30
+
+[[main]]
+  parent = "Contact"
+  pre = "linkedin"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/nikola-zupancic-94a168230/"
+  weight = 20
 
 #[[main]]
 #  name = "Parent"
 #  weight = 20
 
 #[[main]]
-#  name = "example sub-menu 2"
+#  name = "ex
 #  parent = "Parent"
 #  pageRef = "posts"
 #  weight = 20
@@ -61,8 +81,3 @@
    name = "Projects"
    pageRef = "projects"
    weight = 20
-
- [[footer]]
-   name = "Contact"
-   pageRef = "contact"
-   weight = 30
