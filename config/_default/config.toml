@@ -22,8 +22,8 @@ buildExpired = false
   anchor = 'Center'
 
 [taxonomies]
-  projects = "projects"
-  achievements = "achievements"
+  #projects = "projects"
+  #achievements = "achievements"
 
 #[sitemap]
  # changefreq = 'daily'

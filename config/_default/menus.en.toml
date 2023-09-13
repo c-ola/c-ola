@@ -54,7 +54,7 @@
  
  [[footer]]
    name = "Resume"
-   pageRef = "resume"
+   url = "/resume.pdf"
    weight = 10
 
  [[footer]]
