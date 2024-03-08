@@ -1,3 +1,4 @@
 ### Welcome to my github
 
-I don't have a lot of projects and the ones that I have probably don't work
+I'm currently in my third year of computer engineering at Queen's University.
+I have interests in low level programming fields like embedded engineering or systems engineering.
