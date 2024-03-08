@@ -2,22 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Nikola Zupancic</title>
-    <link>https://nikzu.dev/projects/</link>
+    <link>http://localhost:1313/projects/</link>
     <description>Recent content in Projects on Nikola Zupancic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Nikola Zupancic</copyright>
-    <lastBuildDate>Mon, 13 Jun 2022 20:55:37 +0100</lastBuildDate><atom:link href="https://nikzu.dev/projects/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
-tle>Cassowary Gb</title>
-      <link>https://nikzu.dev/projects/cassowary-gb/</link>
-      <pubDate>Mon, 11 Sep 2023 18:17:23 -0400</pubDate>
-      
-      <guid>https://nikzu.dev/projects/cassowary-gb/</guid>
-      <description></description>
-      
-    </item>
-    
+    <copyright>© 2024 Nikola Zupancic</copyright>
+    <lastBuildDate>Wed, 13 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

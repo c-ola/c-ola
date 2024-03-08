@@ -2,39 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikola Zupancic</title>
-    <link>https://nikzu.dev/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Nikola Zupancic</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 Nikola Zupancic</copyright>
-    <lastBuildDate>Mon, 11 Sep 2023 18:17:23 -0400</lastBuildDate><atom:link href="https://nikzu.dev/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Nikola Zupancic</copyright>
+    <lastBuildDate>Fri, 08 Mar 2024 13:15:39 -0500</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cassowary Gb</title>
-      <link>https://nikzu.dev/projects/cassowary-gb/</link>
-      <pubDate>Mon, 11 Sep 2023 18:17:23 -0400</pubDate>
+      <title>Assembler</title>
+      <link>http://localhost:1313/projects/assembler/</link>
+      <pubDate>Fri, 08 Mar 2024 13:15:39 -0500</pubDate>
       
-      <guid>https://nikzu.dev/projects/cassowary-gb/</guid>
+      <guid>http://localhost:1313/projects/assembler/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>B</title>
-      <link>https://nikzu.dev/contact/b/</link>
-      <pubDate>Mon, 11 Sep 2023 16:27:21 -0400</pubDate>
+      <title>Rockpro 64 SBC</title>
+      <link>http://localhost:1313/projects/sbc/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nikzu.dev/contact/b/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/sbc/</guid>
+      <description>Rockpro64 that I use to store files that I want access to from anywhere (uses a VPN), and for jellyfin.</description>
       
     </item>
     
     <item>
-      <title>A</title>
-      <link>https://nikzu.dev/contact/a/</link>
-      <pubDate>Mon, 11 Sep 2023 16:27:19 -0400</pubDate>
+      <title>Cassowary GB</title>
+      <link>http://localhost:1313/projects/cassowary-gb/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://nikzu.dev/contact/a/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/cassowary-gb/</guid>
+      <description>Repo</description>
+      
+    </item>
+    
+    <item>
+      <title>Mini SRC Assembler</title>
+      <link>http://localhost:1313/projects/minisrc-assembler/</link>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/minisrc-assembler/</guid>
+      <description>Repo</description>
       
     </item>
     

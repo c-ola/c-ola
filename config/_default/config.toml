@@ -22,13 +22,13 @@ buildExpired = false
   anchor = 'Center'
 
 [taxonomies]
-  #projects = "projects"
+  projects = "projects"
   #achievements = "achievements"
 
-#[sitemap]
- # changefreq = 'daily'
- # filename = 'sitemap.xml'
- # priority = 0.5
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

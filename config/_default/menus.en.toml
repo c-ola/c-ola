@@ -43,7 +43,7 @@
   parent = "Contact"
   pre = "linkedin"
   name = "LinkedIn"
-  url = "https://www.linkedin.com/in/nikola-zupancic-94a168230/"
+  url = "https://www.linkedin.com/in/nikola-zupancic/"
   weight = 30
 
 #[[main]]

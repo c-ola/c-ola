@@ -46,7 +46,7 @@ disableImageOptimization = true
   layoutBackgroundBlur = false # only used when layout equals background
 
 [article]
-  heroStyle = "basic"
+  # heroStyle = "basic"
   showDate = true
   showViews = true
   showLikes = false
@@ -71,7 +71,7 @@ disableImageOptimization = true
   # relatedContentLimit = 3
   showTaxonomies = true
   showAuthorsBadges = false
-  showWordCount = true
+  # showWordCount = true
   showSummary = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
 

@@ -4,7 +4,7 @@ date: 2023-09-13
 draft: false
 ---
 
-[Repo](https://github.c-ola/c-ola)
+[Repo](https://github.c-ola/cassowary-gb)
 
 I started this project in the summer after having completed a computer architecture course at school.
 That course was my favorite course of that semester and I wanted to further develop my understanding a similar topic.
