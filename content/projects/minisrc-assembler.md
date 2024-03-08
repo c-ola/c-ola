@@ -1,7 +1,7 @@
 +++
 title = 'Mini SRC Assembler'
 date = 2023-09-13
-draft = true
+draft = false
 +++
 
 [Repo](https://github.com/c-ola/minisrc-assembler)
@@ -14,14 +14,14 @@ Using my understanding of assembly that I learnt through my emulator as well as 
 At the moment, it can hardly be called an assembler due to it's lack of features, however I do plan on adding a couple of things to it, and I might even go outside the scope of my school project for some things (interpreter??). 
 
 Features that are currently supported are:
-    - converting files to hex
-    - converting single instructions to hex
-    - binary, signed/unsigned decimal, hex immediate value representations
+- converting files to hex
+- converting single instructions to hex
+- binary, signed/unsigned decimal, hex immediate value representations
 
 Planned to support:
-    - exponential immediate values (e.g. 10e3)
-    - signed binary and hex
-    - macro immediate values
-    - location tags (for branches, etc)
-    - initializing locations in memory to data (strings, integers, etc)
-    - maybe maybe interpreter
+- exponential immediate values (e.g. 10e3)
+- signed binary and hex
+- macro immediate values
+- location tags (for branches, etc)
+- initializing locations in memory to data (strings, integers, etc)
+- maybe maybe interpreter
